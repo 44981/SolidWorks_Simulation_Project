@@ -1,4 +1,4 @@
-# CIM Project – CNC Milling
+# CIM Project - CNC Milling
 
 ## Overview
 A Computer Integrated Manufacturing (CIM) project where I programmed and 
@@ -18,7 +18,7 @@ executed the actual cutting process on a CAM milling machine.
 - CNC milling machine setup and operation
 
 ## Images
-# CIM Project – CNC Milling (Name Engraving)
+# CIM Project - CNC Milling
 
 ## Overview
 A Computer Integrated Manufacturing (CIM) project where I programmed and 
@@ -39,6 +39,7 @@ executed the actual cutting process on a CAM milling machine.
 
 ## Images
 <img width="1743" height="842" alt="Screenshot 2026-09-03 110028" src="https://github.com/user-attachments/assets/bb41c703-28d5-4bed-8431-5d29874074e8" />
+<img width="1920" height="1080" alt="Screenshot (244)" src="https://github.com/user-attachments/assets/3463bc3e-4dea-4a8f-8c22-523b21aaaaf5" />
 
 
 ## What I Learned
